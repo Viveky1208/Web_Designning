@@ -1,6 +1,6 @@
 # Web_Designning
 ## 1.What is software? What is software engineering?
-## Ans=Software engineering has two parts: software and engineering. Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement. Engineering is the development of products using best practices, principles, and methods.
+<p> Software engineering has two parts: software and engineering. Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement. Engineering is the development of products using best practices, principles, and methods.</p>
 ## 2.Explain types of software
 ## Ans= 1.Application Software
 <p>This is the most common type of computer software, and can be defined as end-user programs that help you perform tasks or achieve a desired outcome. The end-user is the person who is actually using a product or program. (They are the one for whom the “end result” is designed.) Some examples of application software include internet browsers, a CRM tool like Hubspot, a photo-editing software like Adobe or Lightroom, or a word processing application like Microsoft Word. Application software is installed on a computer or mobile device based upon a user’s need. Because this is the most common type of software, there are many options available and users can choose the one that best fits their needs, budget, and expectations. (For example, anyone wanting to look on the internet could use Chrome, Safari, or even Firefox.)</p)
