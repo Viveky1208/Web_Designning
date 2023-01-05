@@ -12,8 +12,8 @@ Think about when your laptop or phone has an update. This is system software in 
 <p>While application software is designed for end-users, and system software is designed for computers or mobile devices, programming software is for computer programmers and developers who are writing code. These are programs that are used to write, develop, test, and debug other software programs. It’s helpful to think of these programs as a translator of sorts: they take programming languages like Laravel, Python, C++, and more and translate them into something a computer or phone will understand. </p>
 ## 4.Driver Software
 <p>This software is often considered to be a type of system software. Driver software operates and controls devices that are plugged into a computer. These drivers make it possible for devices to perform their necessary functions. A very good (and practical) example of this is your printer. When you are first setting up your printer to work with your computer, you have to install software to connect the two so that they communicate and print anything you need. </p>
-## 3.What is SDLC? Explain each phase of SDLC
+## 3.What is SDLC? Explain each phase of SDLC?
 <p> An SDLC (software development life cycle) is a big-picture breakdown of all the steps involved in software creation (planning, coding, testing, deploying, etc.). Companies define custom SDLCs to create a predictable, iterative framework that guides the team through all major stages of development.</p>
-## 4.What is DFD? Create a DFD diagram on Flipkart
+## 4.What is DFD? Create a DFD diagram on Flipkart?
 <p> A data flow diagram is a graphical view of how data is processed in a system in terms of input and output. The Data flow diagram (DFD) contains some symbol for drawing the data flow diagram.</p>
 
